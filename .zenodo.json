@@ -1,0 +1,32 @@
+{
+  "title": "Reproducible code for: Direct VLBI Detection of Interstellar Turbulence Imprint on a Quasar: TXS 2005+403",
+  "upload_type": "software",
+  "license": "MIT",
+  "creators": [
+    {
+      "name": "Plavin, Alexander V.",
+      "affiliation": "Black Hole Initiative, Harvard University",
+      "orcid": "0000-0003-2914-8554"
+    }
+  ],
+  "description": "Julia code and Makefile-based reproducible pipeline for the analysis in Plavin et al, 2026, 'Direct VLBI Detection of Interstellar Turbulence Imprint on a Quasar: TXS 2005+403'. Performs model fitting to VLBI visibility data, characterizes frequency-dependent angular broadening due to interstellar scattering, and conducts fringe fitting on archival VLBA observations of TXS 2005+403. Generates all key publication figures.",
+  "keywords": [
+    "VLBI",
+    "interstellar scattering",
+    "refractive substructure",
+    "radio astronomy",
+    "TXS 2005+403"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "arXiv:2602.24255",
+      "relation": "isSupplementTo",
+      "scheme": "arxiv"
+    }
+  ],
+  "communities": [
+    {
+      "identifier": "aas"
+    }
+  ]
+}
